@@ -9,6 +9,7 @@
 - `riscv_baremetal_boot_debug.md` — RISC-V 裸机启动排错笔记（la 走 GOT、sp 未初始化两个经典坑 + 排错三件套）
 - `tinynav_web_control.md` — ESP32-P4 手机网页遥控小车复盘（esp_hosted WiFi + 软件PWM + 5个关键坑 + 国内环境搭建）
 - `metax_c500_env_setup.md` — 沐曦 C500 算子开发环境搭建（国产GPU软件栈知识点 + 诊断脚本的6个设计模式 + **怎么识别一份 AI 编的搭建指南**：幻觉的四类指纹与验证四步）
+- `metax_c500_workflow.md` — 沐曦 C500 **开机、任务与知识点**（每次开机三步 / 四份作业要交什么 / SSHPiper网关·pkill误伤·login shell链·triton源码限制等踩坑 + **附录A：0基础版学会连上实例**）
 - 后续按主题放：调试手册 / 学习笔记 / 项目复盘
 
 ## 约定
